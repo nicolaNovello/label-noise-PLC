@@ -32,7 +32,7 @@ The scripts `main_functions.py` and `utils.py` define the functions needed in `m
 
 ## 📝 References
 
-If you use your code for your research, please cite our paper:
+If you use the code for your research, please cite our paper:
 ```
 
 ```
