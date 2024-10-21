@@ -10,6 +10,11 @@ Official repository of the paper "Label Noise Resistant $f$-Divergence Receiver 
 > Novel class of neural receivers based on the $f$-divergence, with analysis in the presence of label noise. The specific application considered is Power Line Communications. 
 
 ---
+# 📷 Scenario
+
+<img src="Figures/LabelNoiseScenario.png"/>
+
+---
 
 # 💻 How to run the code
 
